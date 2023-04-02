@@ -3,7 +3,7 @@ import cardOne from '../akutelt/cardOne.jpg'
 import cardTwo from '../akutelt/cardTwo.jpg'
 import cardThree from '../akutelt/cardThree.jpg'
 import cardFour from '../akutelt/cardFour.jpg'
-import cardfive from '../akutelt/cardfive.jpg'
+import cardfive from '../akutelt/cardFive.jpg'
 import cardSix from '../akutelt/cardSix.jpg'
 import cardSeven from '../akutelt/cardSeven.jpg'
 
